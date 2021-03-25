@@ -1,0 +1,48 @@
+.carousel-inner {
+    height: 600px;
+}
+
+#slideOne {
+    background-image: url('../img/Night.jpeg');
+}
+
+#slideTwo {
+    background-image: url('../img/cafe.jpeg');
+}
+
+#slideThree {
+    background-image: url('../img/irises.jpeg');
+}
+
+#slideFour {
+    background-image: url('../img/potato.jpeg');
+}
+
+#slideFive {
+    background-image: url('../img/Sunflowers.jpeg');
+}
+
+.image_slide {
+    background-size: cover;
+    background-position: center center;
+}
+
+.small_text {
+    font-size: 13px;
+    letter-spacing: -1px;
+}
+
+.services_card,
+.services_card-image {
+    min-height: 280px;
+}
+
+.font_meie_script {
+    font-family: 'Meie Script', cursive;
+}
+
+#firts_letter::first-letter {
+    font-size: 50px;
+    color: coral;
+    font-family: cursive;
+}
